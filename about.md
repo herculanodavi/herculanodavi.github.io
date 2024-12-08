@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an Embedded Software Engineer with experience in the medical and manufacturing fields. My main interests
+are Signal Processing, Software Engineering and Robotics.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
